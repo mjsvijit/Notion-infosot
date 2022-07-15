@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "name": "adsf",
+      "title": "asdf",
+      "rating": "02345",
+      "categry": "asdf",
+      "price": "0234",
+      "id": 1
+    },
+    {
+      "name": "asdf",
+      "title": "adsf",
+      "rating": "05687",
+      "categry": "adult",
+      "price": "02345",
+      "id": 2
+    }
+  ],
+  "comments": []
+}
